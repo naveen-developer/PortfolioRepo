@@ -7,9 +7,8 @@
 }
 
 :root {
-    --primary-color: #8daaee;
-    --primary-hover-color: #0d9488;
-    --secondary-hover-color: #8daaee;
+    --primary-color: #78baf0;
+    --primary-hover-color: #64aeeb;
     --dark-grey: #4b5563;
     --light-grey: #f3f4f6;
 }
@@ -77,7 +76,7 @@ p {
 }
 
 .link-secondary:hover {
-    background-color: var(--secondary-hover-color);
+    background-color: var(--primary-hover-color);
     color: #FFFFFF;
 }
 
