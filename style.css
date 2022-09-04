@@ -18,6 +18,18 @@ body {
     margin: 0px;
 }
 
+small{
+    color:#6f777c
+}
+
+section h1{
+    margin-bottom: 10px;
+}
+
+p{
+    color: #6a6f73;
+}
+
 hr {
     margin: 2rem 0rem;
 }
